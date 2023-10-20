@@ -1,0 +1,8 @@
+Origin: Netskao's Private Repo Archive
+Label: Netskao's Private Repo Archive
+Suite: stable
+Version: 1.0
+Codename: Netskao
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Netskao's Private Repo Archive
