@@ -1,0 +1,42 @@
+Package: com.nan.netskao-archive
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Filename: ./debs/com.nan.netskao-archive_0.1.0_iphoneos-arm.deb
+Size: 744
+MD5sum: fed3a0256f73a893c1cf06593e0b3257
+SHA1: 3889f97edf4474601c473f48dd6d0f9e5b9f9157
+SHA256: 6d6d01b088be275ee53ef53706057b52c51292af039fd167bd0fa08b1091d95f
+Section: Tips
+Description: 该源内 deb 已全部移除，请直接删除此源防止流量浪费
+Author: zhaonan
+Name: 请删除此源
+
+Package: com.nan.netskao-archive
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: zhaonan
+Filename: ./debs/com.nan.netskao-archive_0.1.0_iphoneos-arm64e.deb
+Size: 748
+MD5sum: 5cbe49835f7b906540743c7f8ed65c0e
+SHA1: e673a724fc9630e82f76d26d70512d5f612c9b05
+SHA256: 75b6084da0b01459408ddb50aea44e4b75f3c986599e777209fae562c8b5f1b1
+Section: Tips
+Description: 该源内 deb 已全部移除，请直接删除此源防止流量浪费
+Author: zhaonan
+Name: 请删除此源
+
+Package: com.nan.netskao-archive
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Filename: ./debs/com.nan.netskao-archive_0.1.0_iphoneos-arm64.deb
+Size: 748
+MD5sum: 880ddc641f06e4d5527cfcff117464bb
+SHA1: b7b36fea91e489fc4e0a6816c98c4a6750d5c503
+SHA256: eda0411d7795911cab39108bd63b8a5b679770b0ced0c6df087cc40cbaa7176b
+Section: Tips
+Description: 该源内 deb 已全部移除，请直接删除此源防止流量浪费
+Author: zhaonan
+Name: 请删除此源
+

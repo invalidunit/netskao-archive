@@ -1,0 +1,7 @@
+Origin: - 请删除此源
+Label: - 请删除此源
+Description: haha
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
